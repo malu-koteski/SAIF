@@ -4,7 +4,14 @@
 
 O SAIF (Sistema de Fiscalização de Animais Intrusos e Fugitivos) é um projeto desenvolvido na Universidade Federal de São Paulo para monitoramento de galinheiros de pequeno porte. O sistema tem como objetivo identificar possíveis invasões de predadores e fugas de galinhas por meio da análise de dados provenientes de sensores de movimentação, peso e ruído.
 
-Este repositório contém os arquivos de simulação do sistema em formato `.panda`, utilizados para representar e validar os circuitos digitais desenvolvidos para o projeto.
+Este repositório contém os arquivos de simulação do sistema em formato `.panda`, utilizados para representar e validar os circuitos digitais desenvolvidos para o projeto. Também, os vídeos usados para pitch e explicação técnica do projeto e o pdf final como `Projeto Final CD.docx.pdf`.
+
+Observação: para visualizar os vídeos clique em baixar!
+
+Vídeos no youtube: 
+
+https://www.youtube.com/watch?v=-bwLtfRe82U&feature=youtu.be
+
 
 ## Requisitos
 
