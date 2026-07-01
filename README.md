@@ -11,6 +11,7 @@ Observação: para visualizar os vídeos clique em baixar!
 Vídeos no youtube: 
 
 https://www.youtube.com/watch?v=-bwLtfRe82U&feature=youtu.be
+https://www.youtube.com/watch?v=uiSENI8sRHw 
 
 
 ## Requisitos
